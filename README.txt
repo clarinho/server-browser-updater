@@ -9,3 +9,6 @@
 - Preferably put these two files (run-scraper and h2m-server-scraper) in a folder alone
 
 - Make a backup of your current favourites file and drag the new one into your players2 folder
+
+# IF IT SAYS PYTHON IS NOT INSTALLED EVEN AFTER RUNNING THE BATCH FILE, 
+# INSTALL PYTHON FROM THE MICROSOFT STORE
