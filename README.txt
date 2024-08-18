@@ -1,4 +1,4 @@
-## This script generates a lsit of IPs scraped from the master server list online
+## This script generates a list of IPs scraped from the master server list online
 
 ## It generates a favourites.json file that you can put in your game\players2 folder
 
