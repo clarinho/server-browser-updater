@@ -1,6 +1,6 @@
-## This script generates a list of IPs scraped from the master server list online
+# This script generates a list of IPs scraped from the master server list online
 
-## It generates a favourites.json file that you can put in your game\players2 folder
+It generates a favourites.json file that you can put in your game\players2 folder
 
 - Once you have extracted the file these come in, run the run-scraper.bat file
 
@@ -10,5 +10,5 @@
 
 - Make a backup of your current favourites file and drag the new one into your players2 folder
 
-# IF IT SAYS PYTHON IS NOT INSTALLED EVEN AFTER RUNNING THE BATCH FILE, 
-# INSTALL PYTHON FROM THE MICROSOFT STORE
+*IF IT SAYS PYTHON IS NOT INSTALLED EVEN AFTER RUNNING THE BATCH FILE, 
+ INSTALL PYTHON FROM THE MICROSOFT STORE*
